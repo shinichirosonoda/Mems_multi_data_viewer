@@ -1,0 +1,36 @@
+{
+    "s_volt": 13.6,
+    "f_volt": 13.9,
+    "base_rate": 32238380314418,
+    "step_rate": 32000000.0,
+    "_adder_max": 24,
+    "k": 237049281,
+    "temp_rate": [
+        0.0,
+        0.02,
+        0.0,
+        0.09
+    ],
+    "s_volt_single_res": 7.5,
+    "f_volt_single_res": 5.3,
+    "s_freq_bit_single_res": 1621137320948206,
+    "f_freq_bit_single_res": 3243753357921997,
+    "s_target_phase_single_res": 0,
+    "f_target_phase_single_res": 0,
+    "target_phase": [
+        3690.0,
+        0.0
+    ],
+    "back_freq": 18,
+    "prime_number": [
+        251,
+        503
+    ],
+    "step": 705458,
+    "phase_lock": 0,
+    "log_interval": 1,
+    "pkg": 2,
+    "waveform": 1,
+    "voltage_offset": 0,
+    "sample": "SQ2110303"
+}
